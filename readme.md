@@ -1,4 +1,4 @@
-# Activiadad 1.3 Servidor LAMP
+# Actividad 1.3 Servidor LAMP
 ### Enlaces:
 [Apartado 1.3.1](actividad13_lamp/readme.md)  
 [Script 1.3.1](actividad13_lamp/script1.sh)  
